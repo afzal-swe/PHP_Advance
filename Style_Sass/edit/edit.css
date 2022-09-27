@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(167, 213, 214);
+}
+body .edit_form {
+  background: rgb(20, 16, 16);
+  width: 385px;
+  height: 477px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 218px;
+}
+body .edit_form .form_info {
+  margin-top: 15px;
+  padding: 11px;
+  width: 236px;
+  border-radius: 5px;
+  margin-left: 70px;
+}
+body .edit_form .save {
+  cursor: pointer;
+  width: 82px;
+  height: 31px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 4px;
+  margin-left: 70px;
+  margin-top: 5px;
+}/*# sourceMappingURL=edit.css.map */

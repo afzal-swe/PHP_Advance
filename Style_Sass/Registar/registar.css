@@ -1,0 +1,55 @@
+/* Browser reset Code */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(167, 213, 214);
+}
+
+header {
+  background: cadetblue;
+  text-align: center;
+  padding: 18px;
+  font-size: 26px;
+}
+
+section#registar_form {
+  width: 575px;
+  height: 500px;
+  background: aliceblue;
+  margin: 0 auto;
+  margin-top: 150px;
+  border-radius: 5px;
+}
+section#registar_form .registar_div {
+  margin-top: 10px;
+  padding: 7px;
+}
+section#registar_form .registar_div form {
+  margin: 0 auto;
+  width: 252px;
+}
+section#registar_form .registar_div form .form_info {
+  padding: 6px;
+  width: 219px;
+  margin: 0 auto;
+  margin-top: 19px;
+}
+section#registar_form .registar_div .save {
+  width: 74px;
+  height: 29px;
+  margin-top: 7px;
+  cursor: pointer;
+}
+
+footer {
+  background: cadetblue;
+  text-align: center;
+  height: 94px;
+  padding: 22px;
+  font-size: 27px;
+  margin-top: 247px;
+}/*# sourceMappingURL=registar.css.map */
